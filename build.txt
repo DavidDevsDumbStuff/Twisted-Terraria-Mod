@@ -1,0 +1,3 @@
+displayName = Twisted Terraria Batzpup's code
+author = Batzpup
+version = 0.1
