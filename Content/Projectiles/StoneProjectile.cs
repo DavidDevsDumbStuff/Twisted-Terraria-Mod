@@ -1,6 +1,6 @@
 ﻿using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Projectiles;
+namespace TwistedTerraria.Content.Projectiles;
 
 public class StoneProjectile : ModProjectile
 {

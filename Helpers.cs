@@ -9,7 +9,7 @@ using Terraria.ID;
 
 
 
-namespace BatzUtils;
+namespace TwistedTerraria;
 
 public static class Helpers
 {

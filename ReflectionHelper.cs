@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace BatzUtils;
+namespace TwistedTerraria;
 
 // Author : Batzpup
 public static class ReflectionHelper

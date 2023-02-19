@@ -1,8 +1,8 @@
-﻿using BatzUtils.Content.Projectiles;
+﻿using TwistedTerraria.Content.Projectiles;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Items.Weapons;
+namespace TwistedTerraria.Content.Items.Weapons;
 
 public class StoneCup : ModItem
 {

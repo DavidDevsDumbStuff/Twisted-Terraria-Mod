@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using ItemID = On.Terraria.ID.ItemID;
 
-namespace BatzUtils.Content.Projectiles;
+namespace TwistedTerraria.Content.Projectiles;
 
 public class StoneCupProjectile : ModProjectile
 {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Terraria;
 
-namespace BatzUtils;
+namespace TwistedTerraria;
 
 public static class ProjectileExtension
 {

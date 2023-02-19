@@ -1,12 +1,12 @@
-﻿using BatzUtils.Content.Dusts;
-using BatzUtils.Content.Items.Weapons;
+﻿using TwistedTerraria.Content.Dusts;
+using TwistedTerraria.Content.Items.Weapons;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
 using Terraria.DataStructures;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Projectiles.ArcaneScytheProjectiles;
+namespace TwistedTerraria.Content.Projectiles.ArcaneScytheProjectiles;
 
 public class ArcaneScytheProjectileImage : ModProjectile
 {

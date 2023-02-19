@@ -4,7 +4,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Projectiles;
+namespace TwistedTerraria.Content.Projectiles;
 
 public class GelatinousGrenadierProjectile : ModProjectile
 {

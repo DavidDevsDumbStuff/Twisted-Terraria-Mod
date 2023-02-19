@@ -1,7 +1,7 @@
 ﻿using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Items.Ammo;
+namespace TwistedTerraria.Content.Items.Ammo;
 
 public class BlackHoleBullet : ModItem
 {

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using BatzUtils.Content.Items.Tools;
+using TwistedTerraria.Content.Items.Tools;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
@@ -8,7 +8,7 @@ using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Projectiles.MeleeProjectiles;
+namespace TwistedTerraria.Content.Projectiles.MeleeProjectiles;
 
 public class CustomAxeProjectile : ModProjectile
 {

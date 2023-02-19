@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Buffs;
+namespace TwistedTerraria.Content.Buffs;
 
 public class FrostbittenDebuff : ModBuff
 {

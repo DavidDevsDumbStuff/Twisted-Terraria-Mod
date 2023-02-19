@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ModLoader;
 using Terraria.ModLoader.IO;
 
-namespace BatzUtils.Content;
+namespace TwistedTerraria.Content;
 
 public class TTModPlayer : ModPlayer
 {

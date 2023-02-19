@@ -2,7 +2,7 @@
 using Terraria;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Dusts;
+namespace TwistedTerraria.Content.Dusts;
 
 public class ArcaneDust : ModDust
 {

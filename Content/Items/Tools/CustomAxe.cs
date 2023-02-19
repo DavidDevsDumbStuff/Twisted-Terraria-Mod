@@ -1,5 +1,5 @@
 ﻿using System;
-using BatzUtils.Content.Projectiles.MeleeProjectiles;
+using TwistedTerraria.Content.Projectiles.MeleeProjectiles;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 using Terraria;
@@ -7,7 +7,7 @@ using Terraria.DataStructures;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Items.Tools;
+namespace TwistedTerraria.Content.Items.Tools;
 
 public class CustomAxe : ModItem
 {

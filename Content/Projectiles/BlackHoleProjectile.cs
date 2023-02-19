@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.DataStructures;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Projectiles;
+namespace TwistedTerraria.Content.Projectiles;
 
 
 public class BlackHoleProjectile : ModProjectile

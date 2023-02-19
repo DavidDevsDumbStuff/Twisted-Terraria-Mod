@@ -1,6 +1,6 @@
-﻿using BatzUtils.Content.Dusts;
-using BatzUtils.Content.Projectiles;
-using BatzUtils.Content.Projectiles.ArcaneScytheProjectiles;
+﻿using TwistedTerraria.Content.Dusts;
+using TwistedTerraria.Content.Projectiles;
+using TwistedTerraria.Content.Projectiles.ArcaneScytheProjectiles;
 using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.DataStructures;
@@ -8,7 +8,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using ItemID = On.Terraria.ID.ItemID;
 
-namespace BatzUtils.Content.Items.Weapons;
+namespace TwistedTerraria.Content.Items.Weapons;
 
 public class ArcaneScythe : ModItem
 {

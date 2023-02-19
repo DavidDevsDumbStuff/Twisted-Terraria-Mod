@@ -1,4 +1,4 @@
-﻿using BatzUtils.Content.Projectiles;
+﻿using TwistedTerraria.Content.Projectiles;
 using IL.Terraria;
 using Microsoft.Xna.Framework;
 using Terraria;
@@ -6,7 +6,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using Player = Terraria.Player;
 
-namespace BatzUtils.Content.Items.Weapons;
+namespace TwistedTerraria.Content.Items.Weapons;
 
 public class MultiBow : ModItem
 {

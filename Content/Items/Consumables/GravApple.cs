@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Items.Consumables;
+namespace TwistedTerraria.Content.Items.Consumables;
 
 public class GravApple : ModItem
 {

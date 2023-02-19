@@ -1,5 +1,5 @@
 using System;
-using BatzUtils.Content.Items.Weapons;
+using TwistedTerraria.Content.Items.Weapons;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Terraria;
@@ -8,7 +8,7 @@ using Terraria.GameContent;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Projectiles;
+namespace TwistedTerraria.Content.Projectiles;
 
 public class ChanneledSwordProjectile : ModProjectile
 {

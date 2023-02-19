@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Items.Weapons;
+namespace TwistedTerraria.Content.Items.Weapons;
 
 public class BambooShoot : ModItem
 {

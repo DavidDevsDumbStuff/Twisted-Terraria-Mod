@@ -1,10 +1,10 @@
-﻿using BatzUtils.Content.Buffs;
+﻿using TwistedTerraria.Content.Buffs;
 using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BatzUtils.Content.Items.Weapons;
+namespace TwistedTerraria.Content.Items.Weapons;
 
 public class WindTalons : ModItem
 {
